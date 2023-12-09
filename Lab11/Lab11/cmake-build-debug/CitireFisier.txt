@@ -1,0 +1,3 @@
+1 apa 10
+2 ciocolata 8
+3 bere 7
